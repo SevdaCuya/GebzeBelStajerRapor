@@ -1,11 +1,1 @@
-#### -->Ubuntu server kuruldu.
 
-https://kadirkozan.com.tr/ubuntu-server-20-04-lts-kurulumu/
-
-#### -->L.A.M.P.(Linux,Apache,Mysql,Php) kuruldu.
-
-https://www.cozumpark.com/ubuntu-20-04-server-uzerinde-lamp-stack-ve-phpmyadmin-kurulum-adimlari/
-
-#### -->Apache2 server kuruldu.
-
-https://www.yusufsezer.com.tr/linux-apache-server-kurulumu-ve-ayarlari/
